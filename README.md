@@ -1,6 +1,8 @@
 FitnessCare
 ========================
 
+Pre-requisite: Node 16 !!!
+
 A comprehensive daily food-logs tracking platform built with the MERN stack. Users can sign up, log in, and track their daily food intake with the ability to view monthly food-log reports.
 
 Features
