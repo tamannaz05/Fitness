@@ -75,7 +75,8 @@ mongoose
   .then(() => {
     app.listen(process.env.PORT || PORT, () => {
       console.log(
-        `DB connected and the server is runnning at ${PORT}-${NODE_ENV}`
+        `DB connected and the server is runnning at ${PORT}-${NODE_ENV}`,
+        `Application live at http:localhost:${PORT}`
       );
     });
   })
