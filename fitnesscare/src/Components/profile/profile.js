@@ -71,7 +71,7 @@ export class profile extends Component {
                     name="Age" value={this.state.Age}
                     onChange={this.handleChange}/></div>
                     <div className="col-10 mx-auto text-center log">Height :
-                    <input className="log" type="number" placeholder="Enter height(in metre)" 
+                    <input className="log" type="number" placeholder="Enter height(in centimetre)" 
                     name="Height" value={this.state.Height}
                     onChange={this.handleChange}/></div>
                     <div className="col-10 mx-auto text-center log">Weight :
@@ -83,7 +83,7 @@ export class profile extends Component {
                     <input className="log" type="radio" id="male" name="gender" value="Male"/>
                    Male
                     <input className="log" type="radio" id="female" name="gender" value="Female"/>
-                    Feamle
+                    Female
                     <input className="log" type="radio" id="other" name="gender" value="Other"/>
                     Other
                     </div>
