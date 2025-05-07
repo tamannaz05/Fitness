@@ -16,7 +16,7 @@ const about =() =>{
      We aim to provide a complete solution – no matter what diet you choose
       to be on.<br></br><br></br>
       FitnessCare is built as a side 
-      project in 2020. We were following the CRON diet (Calorie Restriction 
+      project in 2025. We were following the CRON diet (Calorie Restriction 
       with Optimal Nutrition) and being the nutrition nerd/software developer 
       that we are, decided to build a platform to track our diet. 
       Thus, FitnessCare was born.

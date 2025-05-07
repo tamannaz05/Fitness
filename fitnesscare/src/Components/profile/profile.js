@@ -71,7 +71,7 @@ export class profile extends Component {
                     name="Age" value={this.state.Age}
                     onChange={this.handleChange}/></div>
                     <div className="col-10 mx-auto text-center log">Height :
-                    <input className="log" type="number" placeholder="Enter height(in centimetre)" 
+                    <input className="log" type="number" placeholder="Enter height (in meter)" 
                     name="Height" value={this.state.Height}
                     onChange={this.handleChange}/></div>
                     <div className="col-10 mx-auto text-center log">Weight :
