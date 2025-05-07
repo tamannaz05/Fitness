@@ -10,7 +10,7 @@
     "client": "npm start --prefix fitnesscare",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix fitnesscare && npm run build --prefix fitnesscare"
   },
-  "author": "Suman",
+  "author": "Tamanna",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
