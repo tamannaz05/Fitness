@@ -136,7 +136,7 @@ const Signin = ({ history }) => {
             <div className="row">
               <div className="col-lg-5 order-1 order-lg-1 header-img">
                 <img
-                  src="https://vil.xlri.ac.in/emdp/assets/images/login.svg"
+                  src="https://static.vecteezy.com/system/resources/previews/021/919/677/non_2x/login-icon-in-trendy-flat-style-isolated-on-white-background-approach-symbol-for-your-web-site-design-logo-app-ui-illustration-eps10-flat-style-for-graphic-design-vector.jpg"
                   className="img-fluid animated"
                   style={{ marginTop: "70px" }}
                   alt="home img"
